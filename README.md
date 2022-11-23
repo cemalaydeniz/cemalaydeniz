@@ -9,6 +9,8 @@
 <h3>Frameworks & Tools</h3>
 <p>
   <img src="https://img.shields.io/badge/.Net-813084?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/WPF-0C54C2?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Win%20Form-0C54C2?style=for-the-badge&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/Unreal%20Engine-373737?style=for-the-badge&logo=unrealengine&logoColor=white" />
   <img src="https://img.shields.io/badge/Unity-DCDCDC?style=for-the-badge&logo=unity&logoColor=black" />
   <img src="https://img.shields.io/badge/Visual%20Studio-813084?style=for-the-badge&logo=visual-studio&logoColor=white" />
