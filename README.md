@@ -67,7 +67,7 @@
       <img width="50px" height"50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
     </td>
      <td align="center">
-      <img width="40px" height"40px" src="https://cdn.worldvectorlogo.com/logos/jwt-3.svg" />
+      <img width="45px" height"45px" src="https://cdn.worldvectorlogo.com/logos/jwt-3.svg" />
     </td>
     <td align="center">
       <img width="50px" height"50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
