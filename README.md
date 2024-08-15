@@ -1,39 +1,161 @@
 <h3>Programming Languages</h3>
-<p>
-  <img src="https://img.shields.io/badge/C/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
+<table>
+  <tr>
+    <td align="center">
+      <img width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
+    </td>
+    <td align="center">
+      <img width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+    </td>
+    <td align="center">
+      <img width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+    </td>
+    <td align="center">
+      <img width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+    </td>
+    <td align="center">
+      <img width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+    </td>
+    <td align="center">
+      <img width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+    </td>
+    <td align="center">
+      <img width="40px" height"40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+    </td>
+    <td align="center">
+      <img width="50px" height"50px" src="https://user-images.githubusercontent.com/7389110/64734952-8a06ae80-d4df-11e9-830a-2c451a6c0694.png" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      C
+    </td>
+    <td align="center">
+      C++
+    </td>
+    <td align="center">
+      C#
+    </td>
+    <td align="center">
+      Javascript
+    </td>
+    <td align="center">
+      Typescript
+    </td>
+    <td align="center">
+      HTML5
+    </td>
+    <td align="center">
+      CSS
+    </td>
+    <td align="center">
+      XAML
+    </td>
+  </tr>
+</table>
 
-<h3>Tools & Technologies</h3>
-<p>
-  <img src="https://img.shields.io/badge/.Net%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/ASP.Net%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/EF%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
-  <img src="https://img.shields.io/badge/AJAX-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-</p>
+<h3>Frameworks & Tools</h3>
+<table>
+  <tr>
+    <td align="center">
+      <img width="40px" height"40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1200px-.NET_Core_Logo.svg.png" />
+    </td>
+    <td align="center">
+      <img width="40px" height"40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1200px-.NET_Core_Logo.svg.png" />
+    </td>
+    <td align="center">
+      <img width="50px" height"50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
+    </td>
+     <td align="center">
+      <img width="40px" height"40px" src="https://cdn.worldvectorlogo.com/logos/jwt-3.svg" />
+    </td>
+    <td align="center">
+      <img width="50px" height"50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
+    </td>
+    <td align="center">
+      <img width="50px" height"50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
+    </td>
+    <td align="center">
+      <img width="45px" height"45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularmaterial/angularmaterial-original.svg" />
+    </td>
+    <td align="center">
+      <img width="40px" height"40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
+    </td>
+    <td align="center">
+      <img width="40px" height"40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg" />
+    </td>
+    <td align="center">
+      <img width="50px" height"50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original.svg" />
+    </td>
+    <td align="center">
+      <img width="50px" height"50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original.svg" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      .Net Core
+    </td>
+    <td align="center">
+      ASP.Net Core
+    </td>
+    <td align="center">
+      Angular
+    </td>
+    <td align="center">
+      JWT
+    </td>
+    <td align="center">
+      Docker
+    </td>
+    <td align="center">
+      Bootstrap
+    </td>
+    <td align="center">
+      Angular Material
+    </td>
+    <td align="center">
+      Node.js
+    </td>
+    <td align="center">
+      RabbitMQ
+    </td>
+    <td align="center">
+      WPF
+    </td>
+    <td align="center">
+      WinForm
+    </td>
+  </tr>
+</table>
 
 <h3>Databases</h3>
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/MS%20SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-</p>
-
-<h3>Others</h3>
-<p>
-  <img src="https://img.shields.io/badge/T%e2%80%93SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
-  <img src="https://img.shields.io/badge/XAML-0C54C2?style=for-the-badge&logo=xaml&logoColor=white" />
-  <img src="https://img.shields.io/badge/WPF-0078D4?style=for-the-badge&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/Win%20Form-0078D4?style=for-the-badge&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" />
-  <img src="https://img.shields.io/badge/Unreal%20Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white" />
-  <img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black" />
-</p>
+<table>
+  <tr>
+    <td align="center">
+      <img width="40px" height"40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+    </td>
+    <td align="center">
+      <img width="40px" height"40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
+    </td>
+    <td align="center">
+      <img width="40px" height"40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" />
+    </td>
+    <td align="center">
+      <img width="40px" height"40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      PostgreSQL
+    </td>
+    <td align="center">
+      MongoDB
+    </td>
+    <td align="center">
+      MSSQL
+    </td>
+    <td align="center">
+      MySQL
+    </td>
+  </tr>
+</table>
